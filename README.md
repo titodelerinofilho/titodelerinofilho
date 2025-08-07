@@ -27,8 +27,8 @@ With over 3 years of experience in the software development industry, I speciali
 
 📫 **Connect with me**
 
-- GitHub: [github.com/SeuUser](https://github.com/titodelerinofilho)
-- LinkedIn: [linkedin.com/in/seulinkedin](https://linkedin.com/in/tito-delerino-filho)
+- GitHub: [Click here :)](https://github.com/titodelerinofilho)
+- LinkedIn: [Click here :)](https://linkedin.com/in/tito-delerino-filho)
 
 ---
 
