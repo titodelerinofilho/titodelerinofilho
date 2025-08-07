@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Tito 👋</h1>
 
-<!--
-**titodelerinofilho/titodelerinofilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Backend Developer | ☁️ Cloud Enthusiast | 🧠 Clean Code Advocate
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **About Me**
+
+With over 3 years of experience in the software development industry, I specialize in building scalable microservices using **PHP (Symfony)**, and delivering clean, maintainable code. I also work with **ReactJS** on the frontend and use **Docker** for containerized development. I follow best practices like **DDD**, **TDD**, and **Clean Architecture**.
+
+---
+
+🛠️ **Tech Stack**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" alt="Symfony" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="ReactJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+</p>
+
+---
+
+📫 **Connect with me**
+
+- GitHub: [github.com/SeuUser](https://github.com/titodelerinofilho)
+- LinkedIn: [linkedin.com/in/seulinkedin](https://linkedin.com/in/tito-delerino-filho)
+
+---
+
+⭐ *Always learning, always building.*
