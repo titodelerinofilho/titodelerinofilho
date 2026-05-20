@@ -8,7 +8,7 @@
 
 🎯 **About Me**
 
-With over 4 years of experience in the software development industry, I specialize in building scalable microservices using **PHP (Symfony)**, and delivering clean, maintainable code. I also work with **ReactJS** on the frontend and use **Docker** for containerized development. I follow best practices like **DDD**, **TDD**, and **Clean Architecture**.
+With over 6 years of experience in the software development industry, I specialize in building scalable microservices using **PHP (Symfony)**, and delivering clean, maintainable code. I also work with **ReactJS** on the frontend and use **Docker** for containerized development. I follow best practices like **DDD**, **TDD**, and **Clean Architecture**.
 
 ---
 
