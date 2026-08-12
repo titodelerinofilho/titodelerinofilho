@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Tito 👋</h1>
 
 <p align="center">
-  💻 Backend Developer | ☁️ Cloud Enthusiast | 🧠 Clean Code Advocate
+  💻 Backend Developer | ☁️ Cloud Enthusiast
 </p>
 
 ---
